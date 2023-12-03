@@ -30,7 +30,7 @@ Prerequisites
 
 # Configure Environment Variables
 
-Create a .env file in the root of the project and configure is according to env.example. You can use the following command to create the file:
+Create a .env file in the root of the project and configure is according to env.example file. You can use the following command to create the file:
 
 # Run the Application
 ```
