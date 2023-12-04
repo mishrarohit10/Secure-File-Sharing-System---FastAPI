@@ -34,7 +34,7 @@ Create a .env file in the root of the project and configure is according to env.
 
 # Run the Application
 ```
-    uvicorn main:app --reload
+    uvicorn app.main:app --reload
 ```
 The application will be accessible at http://127.0.0.1:8000 by default.
 
